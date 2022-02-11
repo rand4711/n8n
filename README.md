@@ -7,7 +7,7 @@ n8n is an extendable workflow automation tool. With a [fair-code](http://faircod
 <a href="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-screenshot.png"><img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-screenshot.png" width="550" alt="n8n.io - Screenshot"></a>
 
 
-
+  
 ## Demo
 
 [:tv: A short demo (< 3 min)](https://www.youtube.com/watch?v=3w7xIMKLVAg) which shows how to create a simple workflow which
